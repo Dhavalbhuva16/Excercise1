@@ -11,7 +11,7 @@ package exercise1;
 public class CardTrick {
     
     public static void main(String[] args) {
-        
+        //new comment
         Card[] hand = new Card[7];
 
         for (int i = 0; i < hand.length; i++) {
